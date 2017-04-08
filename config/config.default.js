@@ -20,7 +20,7 @@ module.exports = appInfo => {
         '.ejs':'ejs'
       },
     },
-    spiderUrl:'https://image.baidu.com/search/index?ct=201326592&cl=2&st=-1&lm=-1&nc=1&ie=utf-8&tn=baiduimage&ipn=r&ps=1&pv=&fm=detailrs1&word=%E9%AD%94%E6%96%B9%E7%82%AB%E9%85%B7%E5%9B%BE%E7%89%87&oriquery=%E9%AD%94%E6%96%B9%20%E5%9B%BE%E7%89%87',
+    spiderUrl:'https://www.npmjs.com/search',
     news:{
       pageSize: 5,
       serverUrl: 'https://hacker-news.firebaseio.com/v0',

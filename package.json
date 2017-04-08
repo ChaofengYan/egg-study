@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "cheerio": "^0.22.0",
+    "co": "^4.6.0",
     "egg": "^1.0.0",
     "egg-development-proxyagent": "^1.0.0",
     "egg-jsonp": "^1.0.0",
